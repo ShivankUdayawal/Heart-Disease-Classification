@@ -18,3 +18,6 @@ According to a news article, heart disease proves to be the leading cause of dea
 The World Health Organization (WHO) lists cardiovascular diseases as the leading cause of death globally with 17.9 million people dying every year. The risk of heart disease increases due to harmful behavior that leads to overweight and obesity, hypertension, hyperglycemia, and high cholesterol. Furthermore, the American Heart Association complements symptoms with weight gain (1–2 kg per day), sleep problems, leg swelling, chronic cough and high heart rate. Diagnosis is a problem for practitioners due the symptoms’ nature of being common to other conditions or confused with signs of aging.
 
 This makes heart disease a major concern to be dealt with. But it is difficult to identify heart disease because of several contributory risk factors such as diabetes, high blood pressure, high cholesterol, abnormal pulse rate, and many other factors. Due to such constraints, scientists have turned towards modern approaches like Data Mining and Machine Learning for predicting the disease.
+
+## Problem Statement :
+  #### Given clinical parameters about a patient, need to identify whether a person has heart disease or not.
