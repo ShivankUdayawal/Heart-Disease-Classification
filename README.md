@@ -1,6 +1,8 @@
 # Heart-Disease-Classification
 ### Given clinical parameters about a patient, need to identify whether a person has heart disease or not.
 
+![](https://github.com/ShivankUdayawal/Heart-Disease-Classification/blob/main/Data%20Visualization/03.jpg)
+
 ## Introduction :
 Heart disease describes a range of conditions that affect your heart. Diseases under the heart disease umbrella include blood vessel diseases, such as coronary artery disease, heart rhythm problems (arrhythmias) and heart defects you’re born with (congenital heart defects), among others.
 
@@ -18,6 +20,8 @@ According to a news article, heart disease proves to be the leading cause of dea
 The World Health Organization (WHO) lists cardiovascular diseases as the leading cause of death globally with 17.9 million people dying every year. The risk of heart disease increases due to harmful behavior that leads to overweight and obesity, hypertension, hyperglycemia, and high cholesterol. Furthermore, the American Heart Association complements symptoms with weight gain (1–2 kg per day), sleep problems, leg swelling, chronic cough and high heart rate. Diagnosis is a problem for practitioners due the symptoms’ nature of being common to other conditions or confused with signs of aging.
 
 This makes heart disease a major concern to be dealt with. But it is difficult to identify heart disease because of several contributory risk factors such as diabetes, high blood pressure, high cholesterol, abnormal pulse rate, and many other factors. Due to such constraints, scientists have turned towards modern approaches like Data Mining and Machine Learning for predicting the disease.
+
+![](https://github.com/ShivankUdayawal/Heart-Disease-Classification/blob/main/Data%20Visualization/02.jpg)
 
 ## Problem Statement :
   #### Given clinical parameters about a patient, need to identify whether a person has heart disease or not.
@@ -110,3 +114,48 @@ In the actual dataset, we had 76 features but for our study, we chose only the a
   https://archive.ics.uci.edu/ml/datasets/heart+disease
 
   https://www.kaggle.com/ronitf/heart-disease-uci
+
+## Exploratory Data Analysis
+  ## Data Visualization
+  
+![](https://github.com/ShivankUdayawal/Heart-Disease-Classification/blob/main/Data%20Visualization/04.jpg)
+
+![](https://github.com/ShivankUdayawal/Heart-Disease-Classification/blob/main/Data%20Visualization/05.jpg)
+
+![](https://github.com/ShivankUdayawal/Heart-Disease-Classification/blob/main/Data%20Visualization/06.jpg)
+
+![](https://github.com/ShivankUdayawal/Heart-Disease-Classification/blob/main/Data%20Visualization/07.jpg)
+
+![](https://github.com/ShivankUdayawal/Heart-Disease-Classification/blob/main/Data%20Visualization/08.jpg)
+
+![](https://github.com/ShivankUdayawal/Heart-Disease-Classification/blob/main/Data%20Visualization/09.jpg)
+
+![](https://github.com/ShivankUdayawal/Heart-Disease-Classification/blob/main/Data%20Visualization/10.jpg)
+
+![](https://github.com/ShivankUdayawal/Heart-Disease-Classification/blob/main/Data%20Visualization/11.jpg)
+
+![](https://github.com/ShivankUdayawal/Heart-Disease-Classification/blob/main/Data%20Visualization/12.jpg)
+
+![](https://github.com/ShivankUdayawal/Heart-Disease-Classification/blob/main/Data%20Visualization/13.jpg)
+
+![](https://github.com/ShivankUdayawal/Heart-Disease-Classification/blob/main/Data%20Visualization/14.jpg)
+
+![](https://github.com/ShivankUdayawal/Heart-Disease-Classification/blob/main/Data%20Visualization/15.jpg)
+
+![](https://github.com/ShivankUdayawal/Heart-Disease-Classification/blob/main/Data%20Visualization/16.jpg)
+
+![](https://github.com/ShivankUdayawal/Heart-Disease-Classification/blob/main/Data%20Visualization/17.jpg)
+
+![](https://github.com/ShivankUdayawal/Heart-Disease-Classification/blob/main/Data%20Visualization/18.jpg)
+
+![](https://github.com/ShivankUdayawal/Heart-Disease-Classification/blob/main/Data%20Visualization/19.jpg)
+
+![](https://github.com/ShivankUdayawal/Heart-Disease-Classification/blob/main/Data%20Visualization/20.jpg)
+
+![](https://github.com/ShivankUdayawal/Heart-Disease-Classification/blob/main/Data%20Visualization/21.jpg)
+
+![](https://github.com/ShivankUdayawal/Heart-Disease-Classification/blob/main/Data%20Visualization/22.jpg)
+
+![](https://github.com/ShivankUdayawal/Heart-Disease-Classification/blob/main/Data%20Visualization/23.jpg)
+
+![](https://github.com/ShivankUdayawal/Heart-Disease-Classification/blob/main/Data%20Visualization/24.jpg)
